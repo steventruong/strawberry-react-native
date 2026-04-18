@@ -5,8 +5,10 @@ Strawberry analytics SDK for React Native. Zero external dependencies beyond Rea
 ## Installation
 
 ```bash
-npm install strawberry-react-native
+npm install github:steventruong/strawberry-react-native#v1.0.0
 ```
+
+Requires `react >= 17` and `react-native >= 0.70`.
 
 ## Quick Start
 
